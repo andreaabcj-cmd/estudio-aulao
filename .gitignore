@@ -1,0 +1,7 @@
+# seus materiais ficam só no seu computador
+materiais/
+*.aulao
+*.aulao.json
+export/
+__pycache__/
+assets/itch/
